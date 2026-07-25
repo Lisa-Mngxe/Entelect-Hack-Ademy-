@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ranger's Rescue Route — Level 1 Submission
 
 ## What this is
@@ -34,3 +35,6 @@ This was the cheapest of all reasonable candidate routes checked
 - `solve.py` — Dijkstra implementation and graph data
 - `answer.txt` — generated submission file
 - `README.md` — this file
+=======
+# Entelect-Hack-Ademy-
+>>>>>>> d84919158669abf379203e31be50d0fb683fd5dc
